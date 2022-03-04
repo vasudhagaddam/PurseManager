@@ -1,2 +1,2 @@
 # PurseManager
-Purse manager
+Purse manager is an application
